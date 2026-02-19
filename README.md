@@ -5,7 +5,6 @@
   <p>Passionately building rigorous, scalable, and intelligent systems.</p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-krupavaram-pole-bhakthavatsalam-5a065912a/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:johnpole555@gmail.com)
 </div>
 
 ---
